@@ -1,7 +1,7 @@
-#TypeScript Practice
+# TypeScript Practice
 
 
-#Using Language
+# Using Language
 01. Typescript
 02. Scss
 03. React App
